@@ -2,7 +2,7 @@
   "name": "render-backend-01",
   "version": "1.0.0",
   "description": "render-backend-01",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
